@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="center">Passionate full-stack dev | CS @ Jayewardenepura</h4>
 
 ###
@@ -25,6 +23,8 @@
 <p align="left">✨ Creating bugs since 2030<br>📚 I'm currently learning TypeScript, React Native and AWS<br>🎯 Goals: Build scalable apps and become a cloud developer<br>🎲 Fun fact: I debug with coffee ☕</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">🌐 Socials:</h2>
 
@@ -46,7 +46,7 @@
 </div>
 
 ###
-
+<br clear="both">
 <h2 align="left">💻 Tech Stack:</h2>
 
 ###
@@ -90,7 +90,7 @@
 </div>
 
 ###
-
+<br clear="both">
 <h2 align="left">📊 GitHub Stats:</h2>
 
 ###
