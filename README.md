@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">💫About me:</h2>
+<h1 align="left">💫About me:</h1>
 
 ###
 
@@ -24,9 +24,8 @@
 
 ###
 
-<br clear="both">
 
-<h2 align="left">🌐 Socials:</h2>
+<h1 align="left">🌐 Socials:</h1>
 
 ###
 
@@ -46,12 +45,11 @@
 </div>
 
 ###
-<br clear="both">
-<h2 align="left">💻 Tech Stack:</h2>
+
+<h1 align="left">💻 Tech Stack:</h1>
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="35" alt="typescript logo"  />
@@ -90,8 +88,8 @@
 </div>
 
 ###
-<br clear="both">
-<h2 align="left">📊 GitHub Stats:</h2>
+
+<h1 align="left">📊 GitHub Stats:</h1>
 
 ###
 
