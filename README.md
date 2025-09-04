@@ -8,9 +8,9 @@
 
 ###
 
-<br clear="both">
 
-<div align="left">
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sahanThathsara256.sahanThathsara256&"  />
 </div>
 
